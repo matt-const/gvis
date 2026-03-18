@@ -1,4 +1,4 @@
-# genome_viewer_public
+# GVIS
 Web-based Genome Visualizer. Written in C (WASM) + JS.
 Uses the [ALICE engine](github.com/matt-const/alice).
 
