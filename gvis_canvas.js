@@ -1023,7 +1023,7 @@ function wasm_module_load(wasm_bytecode) {
       wasm_context.export_table.wasm_entry_point(cpu_logical_cores);
 
       // NOTE(cmat): Add genomes we want to visualize!
-      gvis_push("Test",  GVIS_Sample_Test);
+ //     gvis_push("Test",  GVIS_Sample_Test);
       gvis_push("Small", GVIS_Sample_Small);
       gvis_push("Large", GVIS_Sample_Large);
 
